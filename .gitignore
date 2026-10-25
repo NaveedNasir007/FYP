@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+/mobile/build/
+/mobile/.dart_tool/
+
+# React / Node
+node_modules/
+dist/
+build/
+.npm/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+# Flutter
+mobile/build/
+mobile/.dart_tool/
+mobile/.pub-cache/
+mobile/.pub/
+# Platform folders
+mobile/android/
+mobile/ios/
+mobile/macos/
+mobile/windows/
+mobile/linux/
+mobile/web/
+*.db
+*.log
